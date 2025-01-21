@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hello there 👋
+I am a student, and i am still learning.
+
+For now i would like to be a Front-End Developer.
 
 <!--
 **Garenmoarne/garenmoarne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
